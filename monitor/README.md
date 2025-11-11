@@ -28,8 +28,7 @@ bash monitor/.claude/monitor/install-monitor.sh
 
 The install script will:
 1. Copy `.claude/monitor` to your project
-2. Clean up temporary files automatically
-3. Optionally run the setup wizard
+2. Clean up temporary git files automatically
 
 ### Option 2: Quick Install via curl
 
